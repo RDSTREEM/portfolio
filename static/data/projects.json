@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"title": "Author Website",
+		"description": "A website for the author Abebe Kebie.",
+		"link": "https://abebekebie.vercel.app",
+		"image": "/images/Author-Site-Screenshot.png",
+		"pinned": true
+	}
+]

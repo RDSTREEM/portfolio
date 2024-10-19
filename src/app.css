@@ -50,3 +50,7 @@ section:hover {
 	background-color: #fff;
 	color: #000;
 }
+
+.text {
+	max-width: 65ch;
+}
