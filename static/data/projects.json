@@ -5,5 +5,11 @@
 		"link": "https://abebekebie.vercel.app",
 		"image": "/images/Author-Site-Screenshot.png",
 		"pinned": true
+	},
+	{
+		"title": "EINAH",
+		"description": "A custom programming langauge built with c++",
+		"link": "https://www.github.com/RDSTREEM/einah",
+		"pinned": true
 	}
 ]
