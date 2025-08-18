@@ -11,5 +11,10 @@
 		"description": "A custom programming langauge built with c++",
 		"link": "https://www.github.com/RDSTREEM/einah",
 		"pinned": true
+	},
+	{
+		"title": "Pulsar Digital Funhouse",
+		"description": "A simple neal.fun inspired website for the Telsem Hack 2025.",
+		"link": "https://pulsar-funhouse.vercel.app"
 	}
 ]
